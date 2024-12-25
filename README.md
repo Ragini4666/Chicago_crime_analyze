@@ -28,7 +28,7 @@
      
 ## FINAL REPORT:
      The final report aims to analyse crime data comprehensively, providing the government with critical insights
-     into crime-prone aresa, including their locations and crime rates. The report will also present detailed crime case information 
-     categorized by year, month, day, and area,to enabling better understanding and decision-making.
-     Additionally, it will hightlight safer neighborhoods, allowing people to make informed choices 
-     for a secure and peaceful living environment.
+     into crime-prone aresa, including their locations and crime rates. The report will also present detailed
+     crime case information categorized by year, month, day, and area,to enabling better understanding 
+     and decision-making. Additionally, it will hightlight safer neighborhoods, allowing people to make 
+     informed choices for a secure and peaceful living environment.
